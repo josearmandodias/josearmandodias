@@ -25,4 +25,7 @@
 - **<josearmandodiaslopez@gmail.com>**
 
 ### ⚡ Github Stats : 
-![José-Armando's Github Stats](https://github-readme-stats.vercel.app/api?username=josearmandodias&show_icons=true&theme=radical)
+![José-Armando's Github Stats](https://github-readme-stats.vercel.app/api?username=josearmandodias&show_icons=true&theme=radical) 
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josearmandodias&hide_progress=true)
+
