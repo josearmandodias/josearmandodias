@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHhkYnh0NDZ1ZTk4bHFxZGd3YmwzNmI5aDBpemN3djRyamdyNDdzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" align="center" style="width: 100%" />
+<img src="https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711" align="center" style="width: 100%" />
 </div>
 
- 	👆 That's how i look to my family
 
 # 👋 Hi, i'm José-Armando 
 
@@ -15,7 +14,7 @@
 
 ### 🛠️ Tools i use everyday ...
 
-[![Learning](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nodejs,express,postgres,graphql,git,github)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,express,postgres,graphql,git,github)](https://skillicons.dev)
 
 ### 🌱 I’m currently learning ...
 
