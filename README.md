@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://cdnb.artstation.com/p/assets/images/images/024/538/827/original/pixel-jeff-clipa-s.gif?1582740711.gif" align="center" style="width: 100%" />
+<img src="./assets/pixel-jeff-clipa-s.gif" align="center" style="width:100%" />
 </div>
 
 
