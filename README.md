@@ -9,8 +9,8 @@
 
 ### 🔭 I’m currently working on ...
 
-- ***[`Listnd`]*** a review app for music, like letterboxd but for music
-- ***[`Google Auth API`]*** a complete CRUD API with the Google OAuth process
+- ***[`Listnd`]*** a review app for music, like letterboxd but for music using React
+- ***[`Realtime chat backend`]*** a complete microservices realtime backend using Typescript, Node.js, Express, RabbitMQ and Docker
 
 ### 🛠️ Tools i use everyday ...
 
@@ -18,7 +18,7 @@
 
 ### 🌱 I’m currently learning ...
 
-[![Learning](https://skillicons.dev/icons?i=vim,nest,vue,next,prisma,docker)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=vim,nest,vue,next,prisma,docker,rabbitmq)](https://skillicons.dev)
 
 ### 📫 How to reach me :
 - **[Linkedin](https://www.linkedin.com/in/josearmandodias/)**
