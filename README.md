@@ -14,11 +14,11 @@
 
 ### 🛠️ Tools i use everyday ...
 
-[![Learning](https://skillicons.dev/icons?i=ts,react,tailwind,nodejs,express,postgres,graphql,git,github)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,postgres,graphql,git,github)](https://skillicons.dev)
 
 ### 🌱 I’m currently learning ...
 
-[![Learning](https://skillicons.dev/icons?i=go,vim,nest,vue,next,prisma,docker,rabbitmq)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=python,vim,nest,vue,next,prisma,docker,rabbitmq)](https://skillicons.dev)
 
 ### 📫 How to reach me :
 - **[Linkedin](https://www.linkedin.com/in/josearmandodias/)**
