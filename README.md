@@ -18,7 +18,7 @@
 
 ### 🌱 I’m currently learning ...
 
-[![Learning](https://skillicons.dev/icons?i=vim,nest,vue,next,prisma,docker,rabbitmq)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=go,vim,nest,vue,next,prisma,docker,rabbitmq)](https://skillicons.dev)
 
 ### 📫 How to reach me :
 - **[Linkedin](https://www.linkedin.com/in/josearmandodias/)**
