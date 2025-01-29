@@ -24,6 +24,9 @@
 - **[Linkedin](https://www.linkedin.com/in/josearmandodias/)**
 - **<josearmandodiaslopez@gmail.com>**
 
+### Leetcode Stats :
+![José-Armando's Leetcode Stats](https://leetcard.jacoblin.cool/jose-armando?theme=radical&font=Fira%20Code&ext=activity)
+
 ### ⚡ Github Stats : 
 ![José-Armando's Github Stats](https://github-readme-stats.vercel.app/api?username=josearmandodias&show_icons=true&theme=radical) 
 
