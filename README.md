@@ -1,24 +1,23 @@
 <div align="center">
-<img src="./assets/pixel-jeff-clipa-s.gif" align="center" style="width:100%" />
+<img src="./assets/images.steamusercontent.gif" align="center" style="width:100%" />
 </div>
 
 
 # 👋 Hi, i'm José-Armando 
 
-## 🇫🇷 A fullstack developer based in Biarritz 
+## 🇫🇷 A wannabe bioinformatics engineer based in Biarritz 
 
 ### 🔭 I’m currently working on ...
 
 - ***[`Listnd`]*** a review app for music, like letterboxd but for music using React, Tailwind, Fastify & Postgresql
-- ***[`Realtime chat backend`]*** a complete microservices realtime backend using Typescript, Node.js, Express, RabbitMQ and Docker
 
 ### 🛠️ Tools i use everyday ...
 
-[![Learning](https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,postgres,graphql,git,github)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=python,ts,nodejs,postgres,graphql,neovim,git,github)](https://skillicons.dev)
 
 ### 🌱 I’m currently learning ...
 
-[![Learning](https://skillicons.dev/icons?i=python,vim,nest,next,prisma,docker,rabbitmq)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=docker,rabbitmq)](https://skillicons.dev)
 
 ### 📫 How to reach me :
 - **[Linkedin](https://www.linkedin.com/in/josearmandodias/)**
