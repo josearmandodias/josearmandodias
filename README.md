@@ -7,7 +7,8 @@
 
 ## 🇫🇷 A wannabe bioinformatics engineer based in Biarritz 
 
- [//]: # (### 🔭 I’m currently working on ... ***[`Listnd`]*** a review app for music, like letterboxd but for music using React, Tailwind, Fastify & Postgresql)
+ ### 🔭 I’m currently working on ... 
+ CS50 Python and Kaggle Machine Learning path
 
 ### 🛠️ Tools i use everyday ...
 
