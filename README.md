@@ -3,13 +3,11 @@
 </div>
 
 
-# 👋 Hi, i'm José-Armando 
+## 👋 Hi, i'm José-Armando 
 
 ## 🇫🇷 A wannabe bioinformatics engineer based in Biarritz 
 
-### 🔭 I’m currently working on ...
-
-- ***[`Listnd`]*** a review app for music, like letterboxd but for music using React, Tailwind, Fastify & Postgresql
+ [//]: # (### 🔭 I’m currently working on ... ***[`Listnd`]*** a review app for music, like letterboxd but for music using React, Tailwind, Fastify & Postgresql)
 
 ### 🛠️ Tools i use everyday ...
 
